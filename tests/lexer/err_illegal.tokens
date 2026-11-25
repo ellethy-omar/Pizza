@@ -1,0 +1,14 @@
+1:1	KW_INT       mozzarella
+1:12	IDENT        x
+1:14	'='          =
+1:16	INT_LIT      5	= 5
+1:17	';'          ;
+Lexical error at line 1, column 19: illegal character '@'
+Lexical error at line 1, column 21: illegal character '$'
+1:22	IDENT        y
+Lexical error at line 1, column 24: illegal character '#'
+Lexical error at line 1, column 26: illegal character '['
+Lexical error at line 1, column 28: illegal character ']'
+Lexical error at line 1, column 30: illegal character '&'
+Lexical error at line 1, column 32: illegal character '|'
+EOF

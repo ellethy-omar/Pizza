@@ -1,0 +1,12 @@
+1:1	KW_INT       mozzarella
+1:12	IDENT        x
+1:14	'='          =
+1:16	INT_LIT      1	= 1
+1:17	';'          ;
+2:2	IDENT        x
+2:4	'='          =
+2:6	IDENT        x
+2:8	'+'          +
+2:10	INT_LIT      2	= 2
+2:11	';'          ;
+EOF

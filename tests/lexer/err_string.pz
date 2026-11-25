@@ -1,0 +1,3 @@
+dough a = "abc
+dough b = "a\qb";
+dough c = "ok";

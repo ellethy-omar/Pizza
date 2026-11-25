@@ -1,0 +1,6 @@
+parser.tab.c
+parser.tab.h
+parser.output
+lex.yy.c
+pizza
+pizza.exe

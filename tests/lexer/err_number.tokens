@@ -1,0 +1,6 @@
+Lexical error at line 1, column 1: invalid numeric literal '9lives'
+Lexical error at line 1, column 8: invalid numeric literal '1.5abc'
+Lexical error at line 1, column 15: invalid numeric literal '1.5e3'
+Lexical error at line 1, column 21: integer literal out of range '99999999999999999999'
+1:42	INT_LIT      12	= 12
+EOF

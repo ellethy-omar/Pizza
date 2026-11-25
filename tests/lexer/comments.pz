@@ -1,0 +1,6 @@
+// line comment
+x /* inline */ y
+/* multi
+   line ** / */ z
+/**/ w
+// at EOF without newline

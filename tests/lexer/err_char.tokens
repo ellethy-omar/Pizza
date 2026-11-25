@@ -1,0 +1,6 @@
+Lexical error at line 1, column 1: empty character literal
+Lexical error at line 1, column 4: character literal has more than one character
+Lexical error at line 1, column 9: unterminated character literal
+Lexical error at line 2, column 1: invalid escape sequence '\q'
+2:1	CHAR_LIT     '\q'	= 113
+EOF

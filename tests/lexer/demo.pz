@@ -1,0 +1,8 @@
+recipe Margherita {
+    mozzarella size;
+    Margherita(mozzarella s) { my.size = s; }
+    mozzarella half() { voila my.size / 2; }
+}
+Margherita m = bake Margherita(30);
+secretSauce ranch PI = 3.14;
+taste (m.half() >= 10 && !cold) { m.size = 0; } otherwise { skip; }

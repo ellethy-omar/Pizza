@@ -1,0 +1,63 @@
+1:1	IDENT        a
+1:2	LE           <=
+1:4	'-'          -
+1:5	IDENT        b
+1:7	IDENT        a
+1:8	EQ           ==
+1:10	'-'          -
+1:11	INT_LIT      1	= 1
+1:13	'!'          !
+1:14	'!'          !
+1:15	IDENT        x
+1:17	IDENT        x
+1:18	EQ           ==
+1:20	'='          =
+1:21	IDENT        y
+2:1	IDENT        a
+2:2	AND          &&
+2:4	IDENT        b
+2:5	OR           ||
+2:7	'!'          !
+2:8	IDENT        c
+2:10	IDENT        a
+2:11	NE           !=
+2:13	IDENT        b
+2:15	IDENT        a
+2:16	GE           >=
+2:18	IDENT        b
+2:20	IDENT        a
+2:21	'<'          <
+2:22	IDENT        b
+2:24	IDENT        a
+2:25	'>'          >
+2:26	IDENT        b
+3:1	IDENT        x
+3:2	'+'          +
+3:3	'+'          +
+3:4	'+'          +
+3:5	IDENT        y
+3:7	IDENT        a
+3:8	'/'          /
+3:9	IDENT        b
+3:11	'%'          %
+3:13	'('          (
+3:15	')'          )
+3:17	'{'          {
+3:19	'}'          }
+3:21	';'          ;
+3:23	','          ,
+3:25	':'          :
+3:27	'.'          .
+4:1	INT_LIT      3	= 3
+4:2	'.'          .
+4:3	IDENT        x
+4:5	'.'          .
+4:6	INT_LIT      5	= 5
+4:8	FLOAT_LIT    1.2	= 1.2
+4:11	'.'          .
+4:12	INT_LIT      3	= 3
+4:14	IDENT        m
+4:15	'.'          .
+4:16	IDENT        size
+5:1	IDENT        a
+EOF

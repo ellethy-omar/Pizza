@@ -1,0 +1,25 @@
+1:1	KW_INT       mozzarella
+2:1	KW_FLOAT     ranch
+3:1	KW_BOOL      oven
+4:1	KW_CHAR      olive
+5:1	KW_STRING    dough
+6:1	KW_VOID      empty
+7:1	KW_CONST     secretSauce
+8:1	KW_IF        taste
+9:1	KW_ELSE      otherwise
+10:1	KW_WHILE     knead
+11:1	KW_REPEAT    stir
+12:1	KW_UNTIL     until
+13:1	KW_FOR       slice
+14:1	KW_SWITCH    menu
+15:1	KW_CASE      dish
+16:1	KW_DEFAULT   houseSpecial
+17:1	KW_BREAK     enough
+18:1	KW_CONTINUE  skip
+19:1	KW_RETURN    voila
+20:1	KW_CLASS     recipe
+21:1	KW_NEW       bake
+22:1	KW_THIS      my
+23:1	BOOL_LIT     hot	= 1
+24:1	BOOL_LIT     cold	= 0
+EOF
